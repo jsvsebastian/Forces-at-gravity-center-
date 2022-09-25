@@ -1,5 +1,5 @@
 # Forces-at-gravity-center For an Auv-
-designed by Juan Sebastian Villegas Student of Mechatronic Engineering 
+Designed by Juan Sebastian Villegas Student of Mechatronic Engineering 
 
 ![image](https://user-images.githubusercontent.com/86011817/192155498-6591bcd2-bb54-443d-bbe0-7119ede8faed.png)
 
